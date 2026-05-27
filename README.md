@@ -21,7 +21,7 @@ The project demonstrates end-to-end analytics including data cleaning, KPI analy
 - **Microsoft Excel** – Data Cleaning, Pivot Analysis & Dashboard
 - **Power BI** – Interactive Dashboard & Data Visualization
 - **Tableau** – Visual Analytics & Storytelling Dashboard
-- **SQL / MySQL** – Data Querying and KPI Analysis
+- **MySQL** – Data Querying and KPI Analysis
 
 ---
 
