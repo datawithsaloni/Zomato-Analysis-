@@ -28,7 +28,7 @@ The project demonstrates end-to-end analytics including data cleaning, KPI analy
 ## 📂 Project Files
 | File | Description |
 |------|-------------|
-| Dataset | Zomato restaurant dataset |
+| dataset| Zomato restaurant dataset |
 | Excel Dashboard | Data cleaning and dashboard |
 | Power BI Dashboard (.pbix) | Interactive business dashboard |
 | Tableau Dashboard | Restaurant analytics visualization |
